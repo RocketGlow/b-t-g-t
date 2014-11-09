@@ -1,0 +1,80 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>been there</title><description>Been There is a premium Ghost theme by RocketGlow</description><link>http://been-there-ghost-theme.rocketglow.me:2400/</link><generator>Ghost 0.5</generator><lastBuildDate>Sun, 09 Nov 2014 14:43:40 GMT</lastBuildDate><atom:link href="http://been-there-ghost-theme.rocketglow.me:2400/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>Morning Fog on the Trail</title><description>&lt;p&gt;&lt;img src="http://24.media.tumblr.com/a95254c15c271bc1bc6ab9fde74d76af/tumblr_mzzr1q92gB1st5lhmo1_1280.jpg" alt="big-post-image"&gt;&lt;/p&gt;
+
+&lt;p&gt;Sartorial try-hard bespoke Portland, next level food truck locavore jean shorts meggings. Pinterest hashtag DIY, butcher Neutra Etsy Truffaut Bushwick. Pop-up small batch swag, mumblecore American Apparel cornhole cliche iPhone Brooklyn semiotics craft beer banh mi. Polaroid salvia tofu Marfa letterpress. Craft beer Terry Richardson biodiesel, YOLO distillery pickled semiotics fashion axe direct trade. Fanny pack trust fund gastropub brunch +1, fingerstache pour-over. Narwhal farm-to-table tousled, before they sold out squid disrupt next level Banksy wolf hoodie Echo Park seitan hella kale chips locavore.&lt;/p&gt;
+
+&lt;p&gt;IPhone actually food truck mixtape pork belly, raw denim Terry Richardson chillwave selvage Portland farm-to-table hashtag 8-bit. 3 wolf moon High Life direct trade you probably haven't heard of them. Neutra cornhole hella mixtape. Organic meggings next level distillery Neutra. Leggings bitters artisan 8-bit, keytar hella photo booth gentrify yr McSweeney's single-origin coffee. Wolf YOLO retro deep v, beard +1 distillery umami Cosby sweater sriracha church-key Helvetica before they sold out. Cliche Echo Park brunch locavore mlkshk, irony typewriter umami selvage.&lt;/p&gt;</description><link>http://been-there-ghost-theme.rocketglow.me:2400/morning-fog-on-the-trail/</link><guid isPermaLink="false">6a96ab5a-9554-4b6b-958b-fbd7514e78eb</guid><category>Hiking</category><category>Forest</category><category>Mountains</category><category>Oregon</category><dc:creator>Chris Allen Moore</dc:creator><pubDate>Sat, 25 Jan 2014 12:06:51 GMT</pubDate></item><item><title>Afternoon Ritual in San Francisco</title><description>&lt;p&gt;&lt;img src="http://25.media.tumblr.com/09d144943802daad98c4556e0961eb66/tumblr_mzzqxabKjH1st5lhmo1_1280.jpg" alt="big-post-image"&gt;&lt;/p&gt;
+
+&lt;p&gt;Butcher kogi yr trust fund. Bespoke pug fap, quinoa Bushwick chillwave organic fanny pack butcher single-origin coffee literally salvia kogi art party. Tofu mlkshk roof party skateboard farm-to-table Bushwick VHS blog. Bicycle rights salvia Helvetica lomo. Drinking vinegar biodiesel fingerstache slow-carb photo booth roof party. Single-origin coffee viral hashtag put a bird on it, +1 lomo occupy Pinterest fanny pack keffiyeh Brooklyn 3 wolf moon Terry Richardson. Biodiesel viral banjo, Pitchfork kogi ugh umami.&lt;/p&gt;
+
+&lt;p&gt;Godard Cosby sweater Austin kale chips food truck wolf. Readymade chambray pour-over ugh, iPhone asymmetrical lo-fi tote bag flexitarian mumblecore scenester Truffaut. Cray ugh stumptown photo booth mustache, direct trade street art cred raw denim four loko dreamcatcher. Pork belly deep v biodiesel readymade. Irony XOXO pop-up, pug kogi church-key Etsy PBR&amp;amp;B. Cliche salvia master cleanse biodiesel, narwhal retro wolf drinking vinegar raw denim cred letterpress authentic. XOXO sriracha twee, mumblecore single-origin coffee authentic selvage iPhone messenger bag Cosby sweater.&lt;/p&gt;</description><link>http://been-there-ghost-theme.rocketglow.me:2400/afternoon-ritual-in-san-francisco/</link><guid isPermaLink="false">3eefebd9-a12a-4d95-b822-352307045a12</guid><category>San Francisco</category><category>Tea</category><dc:creator>Chris Allen Moore</dc:creator><pubDate>Mon, 20 Jan 2014 10:50:00 GMT</pubDate></item><item><title>Golden Gate Bridge Timelapse</title><description>&lt;div class="video-wrapper"&gt;  
+&lt;iframe src="http://player.vimeo.com/video/360185?portrait=0&amp;amp;color=3B302F" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen&gt;&lt;/iframe&gt;  
+&lt;/div&gt;  
+
+&lt;p&gt;&lt;a href="http://vimeo.com/360185"&gt;Golden Gate Bridge timelapse&lt;/a&gt; from &lt;a href="http://vimeo.com/eugenia"&gt;Eugenia Loli&lt;/a&gt; on &lt;a href="https://vimeo.com/"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;This is an example of a Vimeo video post on Been There theme.&lt;/p&gt;</description><link>http://been-there-ghost-theme.rocketglow.me:2400/golden-gate-bridge-timelapse/</link><guid isPermaLink="false">0f51a498-d4f5-44dd-97f1-fda799a1b4aa</guid><category>Video</category><category>San Francisco</category><category>California</category><dc:creator>Chris Allen Moore</dc:creator><pubDate>Sat, 18 Jan 2014 13:00:00 GMT</pubDate></item><item><title>Welcome to Ghost</title><description>&lt;p&gt;&lt;strong&gt;You're live!&lt;/strong&gt; Nice. We've put together a little post to introduce you to the Ghost editor and get you started. You can manage your content by signing in to the admin area at &lt;code&gt;&amp;lt;your blog URL&amp;gt;/ghost/&lt;/code&gt;. When you arrive, you can select this post from a list on the left and see a preview of it on the right. Click the little pencil icon at the top of the preview to edit this post and read the next section!&lt;/p&gt;
+
+&lt;h2 id="gettingstarted"&gt;Getting Started&lt;/h2&gt;
+
+&lt;p&gt;Ghost uses something called Markdown for writing. Essentially, it's a shorthand way to manage your post formatting as you write!&lt;/p&gt;
+
+&lt;p&gt;Writing in Markdown is really easy. In the left hand panel of Ghost, you simply write as you normally would. Where appropriate, you can use &lt;em&gt;shortcuts&lt;/em&gt; to &lt;strong&gt;style&lt;/strong&gt; your content. For example, a list:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Item number one&lt;/li&gt;
+&lt;li&gt;Item number two
+&lt;ul&gt;&lt;li&gt;A nested item&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;A final item&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;or with numbers!&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Remember to buy some milk  &lt;/li&gt;
+&lt;li&gt;Drink the milk  &lt;/li&gt;
+&lt;li&gt;Tweet that I remembered to buy the milk, and drank it&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id="links"&gt;Links&lt;/h3&gt;
+
+&lt;p&gt;Want to link to a source? No problem. If you paste in url, like &lt;a href="http://ghost.org/"&gt;http://ghost.org&lt;/a&gt; - it'll automatically be linked up. But if you want to customise your anchor text, you can do that too! Here's a link to &lt;a href="http://ghost.org/"&gt;the Ghost website&lt;/a&gt;. Neat.&lt;/p&gt;
+
+&lt;h3 id="whataboutimages"&gt;What about Images?&lt;/h3&gt;
+
+&lt;p&gt;Images work too! Already know the URL of the image you want to include in your article? Simply paste it in like this to make it show up:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="https://ghost.org/images/ghost.png" alt="ghost icon"&gt;&lt;/p&gt;
+
+&lt;p&gt;Not sure which image you want to use yet? That's ok too. Leave yourself a descriptive placeholder and keep writing. Come back later and drag and drop the image in to upload:&lt;/p&gt;
+
+&lt;h3 id="quoting"&gt;Quoting&lt;/h3&gt;
+
+&lt;p&gt;Sometimes a link isn't enough, you want to quote someone on what they've said. It was probably very wisdomous. Is wisdomous a word? Find out in a future release when we introduce spellcheck! For now - it's definitely a word.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Wisdomous - it's definitely a word.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id="workingwithcode"&gt;Working with Code&lt;/h3&gt;
+
+&lt;p&gt;Got a streak of geek? We've got you covered there, too. You can write inline &lt;code&gt;&amp;lt;code&amp;gt;&lt;/code&gt; blocks really easily with back ticks. Want to show off something more comprehensive? 4 spaces of indentation gets you there.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;.awesome-thing {
+    display: block;
+    width: 100%;
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id="readyforabreak"&gt;Ready for a Break?&lt;/h3&gt;
+
+&lt;p&gt;Throw 3 or more dashes down on any new line and you've got yourself a fancy new divider. Aw yeah.&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;h3 id="advancedusage"&gt;Advanced Usage&lt;/h3&gt;
+
+&lt;p&gt;There's one fantastic secret about Markdown. If you want, you can  write plain old HTML and it'll still work! Very flexible.&lt;/p&gt;
+
+&lt;p&gt;&lt;input type="text" placeholder="I'm an input field!"&gt;&lt;/p&gt;
+
+&lt;p&gt;That should be enough to get you started. Have fun - and let us know what you think :)&lt;/p&gt;</description><link>http://been-there-ghost-theme.rocketglow.me:2400/welcome-to-ghost/</link><guid isPermaLink="false">3a81b9ac-69c0-457e-ac48-ccf85b925fca</guid><category>Getting Started</category><dc:creator>Chris Allen Moore</dc:creator><pubDate>Mon, 13 Jan 2014 14:47:00 GMT</pubDate></item></channel></rss>
